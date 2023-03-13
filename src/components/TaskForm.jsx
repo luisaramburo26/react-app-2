@@ -46,7 +46,7 @@ const FormTask = (props) => {
             name="title"
             onChange={handleChange}
             type="text"
-            placeholder="Insert A Task prueba"
+            placeholder="Insert A Task prueba2"
             className="form-control rounded-0"
             ref={titleRef}
             autoFocus
